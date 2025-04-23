@@ -4,4 +4,4 @@
 
 Qt Designer로 QUI 디자인을 만들어봤습니다.
 
-[QUI 디자인](https://github.com/user-attachments/assets/5bb7b1a3-fb6a-4812-a471-5629eccf8c01)
+![QUI 디자인 이미지](https://github.com/user-attachments/assets/cf8275d3-20ae-43ef-8fa0-b535c48432b3)
