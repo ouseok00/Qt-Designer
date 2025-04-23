@@ -2,7 +2,9 @@
 
 2025-04-23
 
-Qt Designer에서 GUI 기능을 넣었습니다.
+Qt Designer에서 GUI APP를 만들었습니다.
+object에 각각의 기능을 추가하고 이름을 만들어서 GUI를 코드로 구현하였습니다.
+db와 연동시켜 sql문으로 데이터를 연동하였고, 웹캠으로 찍은 사진들은 내 파일로 저장이 될 수 있도록 하였습니다.
 
 [기능 추가](https://github.com/user-attachments/assets/4ba9791a-389d-4b4e-800f-ea76ebd51f8e)
 
