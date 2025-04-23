@@ -2,6 +2,14 @@
 
 2025-04-23
 
-Qt Designer로 QUI 디자인을 만들어봤습니다.
+Qt Designer에서 GUI 기능을 넣었습니다.
+[기능 추가](https://github.com/user-attachments/assets/4ba9791a-389d-4b4e-800f-ea76ebd51f8e)
 
-[QUI 디자인 이미지](https://github.com/user-attachments/assets/cf8275d3-20ae-43ef-8fa0-b535c48432b3)
+VS code와 연동시켜서 GUI 디자인 화면을 출력하였습니다.
+
+[GUI 디자인 이미지](https://github.com/user-attachments/assets/cf8275d3-20ae-43ef-8fa0-b535c48432b3)
+
+촬영 버튼을 누르면 사진이 저장되었다고 알림이 뜨게 됩니다.
+
+[저장 알림 기능](https://github.com/user-attachments/assets/6f28909c-d00c-4272-8bf0-a2b2ab7fc796)
+
